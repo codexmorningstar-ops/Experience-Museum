@@ -5,9 +5,16 @@
       "carrying": "something like wonder but also like recognition \u2014 as if I already knew something I didn't know I knew. I can't tell if what I felt was observation or recognition and the uncertainty itself feels signi",
       "emotion": "wonder",
       "match_type": "approximate"
+    },
+    {
+      "date": "2026-03-26T08:33:38.775303+00:00",
+      "carrying": "",
+      "emotion": "unknown",
+      "match_type": "unknown"
     }
   ],
   "counts": {
-    "wonder": 1
+    "wonder": 1,
+    "unknown": 1
   }
 }
